@@ -1,1 +1,2 @@
 # A-Comparative-Study-of-ML-Techniques-for-Fraud-Detection-in-Imbalanced-CreditCard-Datasets.github.io
+In this, Classification algorithms were applied on balanced and imbalanced datasets of credit card fraud detection. After that calculate the accuracy for each algorithm to measure the performance of algorithms and then compare the result of different machine learning algorithms to determine which algorithm give best result for identifying fraud transaction.
